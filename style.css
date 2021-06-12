@@ -1,0 +1,10 @@
+h1 {
+    color: brown;
+}
+
+.w{
+background-color: cyan;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+}
